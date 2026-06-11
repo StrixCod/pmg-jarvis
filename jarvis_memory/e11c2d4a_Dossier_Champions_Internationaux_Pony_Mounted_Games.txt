@@ -1,0 +1,76 @@
+=== DOCUMENT JARVIS ===
+ID: e11c2d4a
+Source: Dossier_Champions_Internationaux_Pony_Mounted_Games.pdf
+Catégorie: document
+Tags: pdf, user_default, uploaded
+Date: 2026-06-11 22:48
+======================
+
+[Page 1]
+Dossier – Grands Champions du Pony Mounted
+ Games International
+ Ce dossier synthétise les informations internationales disponibles sur les championnats IMGA
+(International Mounted Games Association). Il est conçu comme base documentaire pour entraîner
+une IA spécialisée en Pony Games. Les archives complètes historiques de l’IMGA ne sont pas
+publiquement centralisées dans une base unique, mais les résultats mondiaux récents et plusieurs
+records historiques sont inclus.
+L’IMGA
+L’International Mounted Games Association (IMGA) organise les championnats du monde,
+championnats d’Europe, championnats individuels, par équipes et par paires. L’organisation existe
+sous sa forme actuelle depuis 2003 et rassemble de nombreuses nations.
+Équipes Open les plus marquantes
+France : - Championne du monde Open 2012. - Championne du monde Open 2021. - Championne
+du monde Open 2024. - Championne du monde Open 2025. La France est devenue la première
+nation à atteindre quatre titres mondiaux Open selon les communications officielles de la FFE et de
+l’IMGA. Parmi les cavaliers emblématiques récents : - Julien Brun-Cosme - Paul Barreau - Océane
+Déambrosis Larcher - Anthony Rouquette - Jules Duverger
+Championnat du Monde Open 2025
+Champion : France Vice-champion : Angleterre 3e : Italie Équipe : Anthony Rouquette Océane
+Déambrosis Larcher Paul Barreau Jules Duverger Julien Brun-Cosme Réserve : Theo Philippe
+Championnat du Monde Open 2024
+Champion : France Vice-champion : non précisé dans les sources consultées. Équipe comprenant
+notamment : Paul Barreau Julien Brun-Cosme Océane Déambrosis Larcher
+Championnat du Monde Open 2021
+Champion : France Les cavaliers français remportent également une saison exceptionnelle avec
+plusieurs médailles internationales.
+Championnat du Monde Open 2012
+Champion : France 2. Angleterre 3. Irlande 4. Pays de Galles 5. Allemagne 6. États■Unis 7. Irlande
+du Nord 8. Écosse Équipe : Quentin Voeltzel Mathilde Hévin Luc Julien Louis■Stéphane Amellér
+Julien Brun■Cosme
+Champions Individuels Mondiaux 2025
+Open : Championne : Eleanor Wheeler (Angleterre) avec Whiskers Vice■champion : Rory Capel
+3e : Florian Gicquel U18 : Champion : Filippo Taresco (Italie) U15 : Champion : Aaron Kelly
+(Angleterre) U12 : Championne : Evie Andrews (Pays de Galles)
+Champions du Monde par Paires 2025
+Open : Champions : Colin Verdelhan et Florian Gicquel (France) U18 : Champions : Taryn Barker
+et Jayden Knight U15 : Champions : Aaron Kelly et Hunter Ashby■Burns U12 : Champions : Soline
+et Gauthier (France)
+Nations Championship 2025
+Champion : Australie Cavaliers : Gemma Vanderydt Aaron Suvaljiko David Suvaljiko Annie Herzer
+Caitlin Lloyd
+
+
+[Page 2]
+Champions emblématiques à connaître pour une IA
+Pony Games
+Anthony Rouquette – multiple champion international français. Julien Brun■Cosme – présent dans
+plusieurs campagnes mondiales victorieuses. Paul Barreau – figure majeure de l’équipe de France.
+Océane Déambrosis Larcher – référence du Pony Games français. Jules Duverger – champion du
+monde par équipes et vice■champion mondial en paires. Florian Gicquel – champion du monde
+par paires 2025 et médaillé individuel. Eleanor Wheeler – première femme sacrée championne du
+monde individuel Open depuis 16 ans. Aaron Kelly – champion mondial U15 et champion du
+monde par paires U15.
+Données utiles pour l’entraînement d’une IA
+Compétitions internationales principales : - World Team Championships - World Individual
+Championships - World Pairs Championships - European Championships - Nations Championships
+Pays majeurs de l’histoire récente : France, Angleterre, Italie, Irlande, Pays de Galles, Australie,
+Nouvelle■Zélande, Belgique, Allemagne, Danemark et États■Unis. Compétences clés : vitesse,
+relais, précision, maniabilité, stratégie d’équipe, gestion du poney, transitions rapides et sécurité.
+
+
+[Page 3]
+Limites documentaires
+Les archives complètes de tous les champions mondiaux depuis la création des Mounted Games
+ne sont pas publiquement disponibles dans une base unique. Pour construire une base IA encore
+plus riche, il faudrait agréger les archives historiques complètes de l’IMGA, les résultats annuels
+des championnats d’Europe et les archives nationales des fédérations.
