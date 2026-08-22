@@ -46,7 +46,7 @@ logger = logging.getLogger("PMG_JARVIS")
 #
 # Ne mets pas la clé directement dans GitHub.
 
-MISTRAL_API_KEY = os.getenv("L9KyHhbmAEYTDmEOwIUcPCBkpWf6xeS3", "").strip()
+MISTRAL_API_KEY = "L9KyHhbmAEYTDmEOwIUcPCBkpWf6xeS3"
 
 MISTRAL_MODEL = os.getenv(
     "MISTRAL_MODEL",
